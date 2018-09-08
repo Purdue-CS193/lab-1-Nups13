@@ -35,3 +35,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+#Nupur's first CS193 Lab
+- class has helpful tips
+- instructors have more recent experience being a freshman
+- low difficulty and rigor
+- no textbook
+- no exams
